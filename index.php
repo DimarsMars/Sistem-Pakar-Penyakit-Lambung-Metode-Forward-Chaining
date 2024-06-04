@@ -29,7 +29,7 @@ include "config.php";
 <!-- navbar -->
 <nav class="navbar navbar-expand-sm bg-info navbar-dark ">
   <!-- Brand/logo -->
-  <h1 class="navbar-brand"><strong>Dr. Dimars</strong></h1>
+  <h1 class="navbar-brand"><strong>Diagnose</strong></h1>
   
   <!-- Links -->
   <ul class="navbar-nav ">
